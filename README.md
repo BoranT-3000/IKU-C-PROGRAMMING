@@ -20,9 +20,9 @@ https://www.btkakademi.gov.tr/portal/course/c-programlama-dili-26686
    git clone https://github.com/kullanici/IKU-C-PROGRAMMING.git
 
 2. Klasöre girin ve bir örnek dosyayı derleyin:
-  ```bash
-   gcc ornek.c -o ornek
+     ```bash
+     gcc ornek.c -o ornek
 
 3. Programı çalıştırın:
-  ```bash
-  ./ornek
+     ```bash
+     ./ornek
